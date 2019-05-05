@@ -1,3 +1,7 @@
+# hm.py
+# Yanilda
+# 5.5.19
+# solution to homework recap
 import math
 
 def sphereArae( radius ):
