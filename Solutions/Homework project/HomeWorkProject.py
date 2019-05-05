@@ -56,7 +56,7 @@ def sphereAreaVolume():
     radius = eval(input("Please enter radius: "))
     
     volume = 4/3 *  math.pi * radius**3
-    area   = 4/3 *  math.pi * radius**2
+    area   = 4 *  math.pi * radius**2
     
     print("The sphere has an area of", area, "and a volume of", volume)
 #2
