@@ -57,5 +57,3 @@ def readNumbers():
     infile.    close()
     print(total, "is the sum of the square of every value in your file")
 
-readNumbers()
-    
